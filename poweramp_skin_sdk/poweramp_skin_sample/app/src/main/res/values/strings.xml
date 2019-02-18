@@ -21,7 +21,7 @@
 	<string name="skin_static_seekbar">Static Seekbar</string>
 
 	<!-- Color rectangle (simple ⬤ symbol + color). NOTE: extra backslash is needed before quotes (\") -->
-	<string name="skin_text_color1"><![CDATA[Text color <span style=\"color: #ff0000;\">⬤</span>]]></string>
+	<string name="skin_text_color1"><![CDATA[Text color <span style=\"color: #000000;\">⬤</span>]]></string>
 
 	<string name="skin_select_text_color">Select Text Color</string>
 	<string name="skin_summary_select_text_color">Select one of the colors below</string>
